@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-zid-910811258/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamazid30@gmail.com)
-[![Portfolio](https://img.shields.io/badge/profile-0077B5?style=for-the-badge&logo=profile&logoColor=white)](https://oussamazid.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Profile-115161?style=for-the-badge&logo=github&logoColor=white)](https://oussamazid.vercel.app)
 
 </div>
 
