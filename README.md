@@ -53,9 +53,6 @@ const oussama = {
 
 ---
 
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
