@@ -31,11 +31,10 @@ const oussama = {
 
 ## 🎯 What I Do
 
-<table style="margin: auto;">
-  <tr>
-    <td width="100%">
 
-### 🎯 What I Do
+<table align="center">
+  <tr>
+    <td>
 
 #### 💻 Development
 - 🛰️ Building **e-commerce platforms**
@@ -51,6 +50,8 @@ const oussama = {
     </td>
   </tr>
 </table>
+
+---
 
 
 ---
