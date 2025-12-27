@@ -21,7 +21,7 @@ Beyond development, I'm dedicated to **empowering others through Python educatio
 
 ```javascript
 const oussama = {
-    location: "Morocco",
+    location: "Tunisia",
     role: "Full-Stack Developer & Python Educator",
     specialization: ["Web Development", "Python Teaching", "IoT Projects"],
     currentFocus: "Building scalable applications with modern technologies",
@@ -35,7 +35,7 @@ const oussama = {
 
 <table>
 <tr>
-<td width="50%">
+<td>
 
 ### 💻 Development
 - 🔭 Building **e-commerce platforms**
@@ -43,15 +43,9 @@ const oussama = {
 - 💪 Developing **fitness applications**
 - 🛠️ Crafting **REST APIs**
 - 📱 Responsive web design
-
-</td>
-<td width="50%">
-
-### 🎓 Teaching & Collaboration
-- 🐍 **Python tutoring** & mentorship
+- 🐍 **Python tutoring
 - 🤝 Open to **real-world projects**
 - 💡 Sharing **web development** expertise
-- 📚 Project guidance & code reviews
 - 🌱 Always learning & improving
 
 </td>
@@ -99,19 +93,6 @@ const oussama = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zidoussama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zidoussama&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zidoussama&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🏆 Skills & Expertise
 
@@ -120,12 +101,12 @@ const oussama = {
 | 💼 Category | 🔧 Technologies |
 |------------|----------------|
 | **Web Development** | Node.js, Express.js, React.js, Next.js, MongoDB |
-| **Programming Languages** | Python (Expert & Educator), JavaScript (Expert), Java (Intermediate) |
+| **Programming Languages** | Python , JavaScript , Java ,TypeScript |
 | **Frontend Tools** | Material UI, Tailwind CSS, Responsive Design |
 | **Backend & APIs** | REST APIs, Express.js, Django |
 | **Data Science** | NumPy, Pandas, Python Data Analysis |
 | **Version Control** | Git, GitHub |
-| **Project Types** | E-commerce, IoT Solutions, Fitness Apps |
+| **Project Types** | E-commerce, IoT Solutions, Fitness Apps, Portfolio |
 
 </div>
 
@@ -150,7 +131,6 @@ def my_commitment():
 
 I'm always open to interesting conversations and collaboration opportunities. Whether you need:
 - 🚀 A **full-stack developer** for your project
-- 🐍 **Python tutoring** or mentorship
 - 💼 Help with **web application development**
 - 🤝 A **collaborator** for innovative ideas
 
