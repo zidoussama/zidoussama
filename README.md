@@ -43,7 +43,7 @@ const oussama = {
 - 💪 Developing **fitness applications**
 - 🛠️ Crafting **REST APIs**
 - 📱 **Responsive web design**
-- 🐍 **Python tutoring**
+- 🐍 **Python & Arduino tutoring**
 - 🤝 Open to **real-world projects**
 - 💡 Sharing **web development** expertise
 - 🌱 Always learning & improving
